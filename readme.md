@@ -1,0 +1,104 @@
+# with-backend
+
+## Roadmap
+
+- Internet
+	- [ ] Domain
+	- [ ] Hosting
+	- [ ] DNS
+	- [ ] Browser (How does work)
+	- [ ] HTTP
+- Patterns
+	- Creational Patterns
+		- [ ] Builder Pattern
+		- [ ] Factory Pattern
+		- [ ] Constructor Pattern
+		- [ ] Prototype Pattern
+		- [ ] Singletone Pattern
+		- [ ] Abstract Pattern
+	- Structural Patterns
+		- [ ] Bridge Pattern
+		- [ ] Composite Pattern
+		- [ ] State Pattern
+		- [ ] Module Pattern
+	- Behaviour Patterns
+		- [ ] Command Pattern
+		- [ ] Chain of Resposibility Pattern
+		- [ ] Strategy Pattern
+		- [ ] Visitor Pattern
+		- [ ] Iterator Pattern
+		- [ ] Template Pattern
+		- [ ] Memento Pattern
+		- [ ] Mediator Pattern
+		- [ ] Observer Pattern
+	- SOLID Pattern
+		- [ ] Single Responsibility
+		- [ ] Open Closed
+		- [ ] Liskov Substitution
+		- [ ] Interface Segregation
+		- [ ] Dependency Inversion (DI)
+- Database
+	- [ ] CAP Theory
+	- [ ] N+1 Problem
+	- [ ] Transactions
+	- [ ] ACID
+	- [ ] ORM
+	- [ ] Normalization
+	- NoSQL
+		- [ ] MongoDB
+		- [ ] RethinkDB
+		- [ ] CouchDB
+		- [ ] DynamoDB
+	- Relational (SQL)
+		- [ ] PostgreSQL
+		- [ ] MySQL
+		- [ ] MariaDB
+- API
+	- [ ] REST
+	- [ ] SOAP
+	- [ ] JSON
+	- [ ] JSON-RPC
+	- [ ] HATEOAS
+	- [ ] gRPC
+	- [ ] OpenAPI specification
+	- GraphQL
+		- GraphQL query
+		- GraphQL mutations
+		- [ ] Apollo
+		- [ ] Relay Modern
+	- Caching
+		- Server Side
+			- [ ] Redis
+			- [ ] Memcached
+		- [ ] CDN
+		- [ ] Client Side
+- Protocols
+	- [ ] Application Layer (DNS, HTTP, FTP...)
+	- [ ] Transport Layer (TCP/UDP)
+	- [ ] Internet Layer (IP/NAT, ICMP) (OSPF, EIGRP)
+	- [ ] Network Access Layer
+- Security
+	- Hash algoritms
+		- [ ] MD5
+		- [ ] SHA Family
+		- [ ] scrypt
+		- [ ] bcrypt
+	- [ ] CORS
+	- [ ] SCP (Politics of content security)
+	- [ ] SSL/TLS
+	- [ ] OWASP Security Risks
+	- Authorization & Authentication
+		- [ ] OAuth
+		- [ ] JWT
+		- [ ] MFA
+	- [ ] Security tactics
+- Testing
+	- [ ] Integrational Tests
+	- [ ] Module Tests
+	- [ ] Functional Tests
+- Algorithms
+	- [ ] Binary
+	- [ ] Bubble
+	- [ ] Linear
+	- [ ] Pasting
+	- [ ] Selecting
