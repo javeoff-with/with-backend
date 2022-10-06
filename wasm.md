@@ -4,6 +4,8 @@
 - [Learn WebAssembly | Packt](https://www.packtpub.com/product/learn-webassembly/9781788997379)
 - [Main - Emscripten 2.0.33-git (dev) documentation](https://emscripten.org/)
 
+- [Assembler in js](https://github.com/streamich/ass-js/blob/master/docs/examples/hello_world.md)
+
 ## Engines support:
 - V8
 - SpiderMonkey
